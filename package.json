@@ -1,5 +1,6 @@
 {
   "name": "react_webpage",
+  "homepage": "https://robhami.github.io/oilees_react_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,9 +9,12 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "tachyons": "^4.12.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "oilees_react_website -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

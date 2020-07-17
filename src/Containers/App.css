@@ -1,0 +1,12 @@
+@font-face {
+    font-family: norwester;
+    src: url("./fonts/norwester.otf") format("opentype");
+   
+}
+
+h1 {
+	font-family: norwester;
+	font-weight: 400;
+	font-size:  4em !important;;
+
+}
