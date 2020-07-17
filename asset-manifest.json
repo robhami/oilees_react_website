@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/oilees_react_website/static/css/main.07780428.chunk.css",
-    "main.js": "/oilees_react_website/static/js/main.295d7a94.chunk.js",
-    "main.js.map": "/oilees_react_website/static/js/main.295d7a94.chunk.js.map",
+    "main.js": "/oilees_react_website/static/js/main.826d87a1.chunk.js",
+    "main.js.map": "/oilees_react_website/static/js/main.826d87a1.chunk.js.map",
     "runtime-main.js": "/oilees_react_website/static/js/runtime-main.fca3b31e.js",
     "runtime-main.js.map": "/oilees_react_website/static/js/runtime-main.fca3b31e.js.map",
     "static/css/2.3c03f26f.chunk.css": "/oilees_react_website/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.7d54c52c.chunk.js": "/oilees_react_website/static/js/2.7d54c52c.chunk.js",
-    "static/js/2.7d54c52c.chunk.js.map": "/oilees_react_website/static/js/2.7d54c52c.chunk.js.map",
+    "static/js/2.3e429bdb.chunk.js": "/oilees_react_website/static/js/2.3e429bdb.chunk.js",
+    "static/js/2.3e429bdb.chunk.js.map": "/oilees_react_website/static/js/2.3e429bdb.chunk.js.map",
     "index.html": "/oilees_react_website/index.html",
-    "precache-manifest.bad86a216079f6527fe99e7b01ed8544.js": "/oilees_react_website/precache-manifest.bad86a216079f6527fe99e7b01ed8544.js",
+    "precache-manifest.c101cd5f09ac62bf52b76b0a51387531.js": "/oilees_react_website/precache-manifest.c101cd5f09ac62bf52b76b0a51387531.js",
     "service-worker.js": "/oilees_react_website/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/oilees_react_website/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.07780428.chunk.css.map": "/oilees_react_website/static/css/main.07780428.chunk.css.map",
-    "static/js/2.7d54c52c.chunk.js.LICENSE.txt": "/oilees_react_website/static/js/2.7d54c52c.chunk.js.LICENSE.txt",
+    "static/js/2.3e429bdb.chunk.js.LICENSE.txt": "/oilees_react_website/static/js/2.3e429bdb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/oilees_react_website/static/media/norwester.7bf22630.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.fca3b31e.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.7d54c52c.chunk.js",
+    "static/js/2.3e429bdb.chunk.js",
     "static/css/main.07780428.chunk.css",
-    "static/js/main.295d7a94.chunk.js"
+    "static/js/main.826d87a1.chunk.js"
   ]
 }
