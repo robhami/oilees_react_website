@@ -2,9 +2,9 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({users}) => {
-	if (true) {
-		throw new Error("Error");
-	}
+	// if (true) {
+	// 	throw new Error("Error");
+	// }
 	
 		return (
 			<div>
